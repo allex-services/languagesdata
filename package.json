@@ -1,0 +1,21 @@
+{
+  "name": "allex_languagesservice",
+  "version": "0.1.0",
+  "description": "LanguagesService",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url" : "git@gitlab.hers.rs:allex_services/languages"
+  },
+  "keywords": [
+    "ecosystem:allex",
+    "Service",
+    "Languages"
+  ],
+  "author": "HERS Belgrade",
+  "license": "ISC"
+}
+
