@@ -1,1 +1,1 @@
-ALLEX.execSuite.registry.add('allex_languagesservice',require('./clientside')(ALLEX));
+ALLEX.execSuite.registry.add('allex_languagesdataservice',require('./clientside')(ALLEX));
